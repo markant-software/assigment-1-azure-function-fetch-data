@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "BlobStorageConnection": "UseDevelopmentStorage=true",
+        "StorageConnectionAppSetting": "UseDevelopmentStorage=true",
+        "DataProvider": "api-publicapis-org",
+        "DataProviderUrl": "https://api.publicapis.org/random?auth=null",
+        "FetchDataTimeOutSec": "30"
+    }
+}
